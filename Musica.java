@@ -1,4 +1,5 @@
 class Musica {
+    
     private String nome;
     private String artista;
 
