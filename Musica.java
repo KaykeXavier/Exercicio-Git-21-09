@@ -1,5 +1,5 @@
 class Musica {
-    
+
     private String nome;
     private String artista;
 
@@ -32,4 +32,3 @@ class Musica {
         this.artista = artista;
     }
 
-}

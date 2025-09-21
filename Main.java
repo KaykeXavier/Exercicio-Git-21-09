@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-    
+
     public static void main(String[] args) {
 
         List<Musica> musicas = new ArrayList<>();
@@ -58,4 +58,3 @@ public class Main {
             System.out.println();
         }
     }
-}
